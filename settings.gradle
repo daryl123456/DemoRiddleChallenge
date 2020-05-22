@@ -1,0 +1,2 @@
+rootProject.name='DemoRiddleChallenge'
+include ':app'
